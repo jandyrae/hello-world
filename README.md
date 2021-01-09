@@ -1,2 +1,4 @@
 # hello-world
-a hello world repository
+
+Hello,
+Just new to all this and checking out tutorials
